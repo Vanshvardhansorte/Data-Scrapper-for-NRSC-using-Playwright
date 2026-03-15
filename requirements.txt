@@ -1,0 +1,6 @@
+playwright
+streamlit
+requests
+pypdf
+pandas
+reportlab
